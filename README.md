@@ -5,6 +5,6 @@ This repository includes all my certificate obtained from online learning platfo
 Course: Mocha JavaScript Test Framework<br/>
 Instructor: Giridhar Rajkumar<br/>
 Completion Date: March 2020
-Certificate: 
+Certificate: https://github.com/marijeb/CourseCertificates/blob/main/MochaJavaAScriptTestFramework.png
 --------------------
 
