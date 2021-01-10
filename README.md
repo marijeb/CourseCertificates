@@ -3,11 +3,11 @@ This repository includes all my certificate obtained from online learning platfo
 
 --------------------
 Course: Mocha JavaScript Test Framework<br/>
-Completion Date: March 2020
+Completion Date: March 2020<br/>
 [Certificate](https://github.com/marijeb/CourseCertificates/blob/main/MochaJavaAScriptTestFramework.png)
 --------------------
 Course:
 Course: Mocha JavaScript Test Framework<br/>
-Completion Date: March 2020
+Completion Date: March 2020<br/>
 [Certificate](https://github.com/marijeb/CourseCertificates/blob/main/MochaJavaAScriptTestFramework.png)
 
