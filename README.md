@@ -1,5 +1,5 @@
 ## CourseCertificates
-This repository includes all my certificates obtained from online learning platform Test Automation University [https://testautomationu.applitools.com/]<br/>
+This repository includes all my certificates obtained from online learning platform [Test Automation University](https://testautomationu.applitools.com/)<br/>
 
 Course: Setting a Foundation for Successful Test Automation<br/>
 Completion Date: January 2019<br/>
